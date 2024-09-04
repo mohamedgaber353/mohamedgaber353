@@ -4,11 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
   
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>
+- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.<br>
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 🔭 I’m currently working on a pet project [copyboard](https://github.com/AB-Twitty/RenoCare)
-- 🌱 I’m currently taking a deep dive into **kubernetes**
+- 🌱 I’m currently taking a deep dive into **Kubernetes**
 
 
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="[[https://linkedin.com/in/hossamdash](https://www.linkedin.com/in/mohamed-gaber353/)](https://www.linkedin.com/in/mohamed-gaber353/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamdash" height="30" width="40" /></a>
 
-<a href="[[https://www.leetcode.com/hossamdash](https://leetcode.com/u/Mohamed_Gaber_Abdelghafar/)](https://leetcode.com/u/Mohamed_Gaber_Abdelghafar/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hossamdash" height="30" width="40" /></a>
+<a href="[[https://leetcode.com/u/Mohamed_Gaber_Abdelghafar/](https://leetcode.com/u/Mohamed_Gaber_Abdelghafar/)](https://leetcode.com/u/Mohamed_Gaber_Abdelghafar/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hossamdash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
