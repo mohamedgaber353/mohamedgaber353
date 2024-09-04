@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hossam</h1>
-<h3 align="center">DevOps Engineer at Nagwa | Passionate about open source | Linux aficionado</h3>
+<h1 align="center">Hi 👋, I'm Mohamed </h1>
+<h3 align="center">DevOps Engineer  | Passionate about open source | Linux aficionado</h3>
 
-- 🔭 I’m currently working on a pet project [copyboard](https://github.com/hossamdash/copyboard)
 
 - 🌱 I’m currently taking a deep dive into **kubernetes**
-
-- 📝 I'm the occasional wordsmith on [https://hossamdash.hashnode.dev](https://hossamdash.hashnode.dev)
-
 - 🐧 Avid **archlinux user**
 
 <h3 align="left">Connect with me:</h3>
