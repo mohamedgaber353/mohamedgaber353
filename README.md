@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mohamed </h1>
-<h3 align="center">DevOps Engineer  | Passionate about open source | Linux aficionado</h3>
+<h1 align="center">Hi 👋, I'm Mohamed
+<h3 align="center">DevOps Engineer | Passionate about open source | Linux aficionado</h3>
 
+- 🔭 I’m currently working on a pet project [copyboard](https://github.com/AB-Twitty/RenoCare)
 
 - 🌱 I’m currently taking a deep dive into **kubernetes**
+
+
+
 - 🐧 Avid **archlinux user**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hossamdash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamdash" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16426803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16426803" height="30" width="40" /></a>
-<a href="https://hashnode.com/@hossamdash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hossamdash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hossamdash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hossamdash" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/hossamdash](https://www.linkedin.com/in/mohamed-gaber353/)](https://www.linkedin.com/in/mohamed-gaber353/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamdash" height="30" width="40" /></a>
+
+<a href="[[https://www.leetcode.com/hossamdash](https://leetcode.com/u/Mohamed_Gaber_Abdelghafar/)](https://leetcode.com/u/Mohamed_Gaber_Abdelghafar/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hossamdash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
