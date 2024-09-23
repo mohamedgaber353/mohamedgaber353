@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">DevOps Engineer | Passionate about Automation & Cloud Infrastructure | Linux Enthusiast</h3>
 
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 ### 🚀 About Me
 
 - 👨‍💻 I’m passionate about automating infrastructure and optimizing CI/CD workflows.
