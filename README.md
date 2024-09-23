@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 ### 🚀 About Me
 
 - 👨‍💻 I’m passionate about automating infrastructure and optimizing CI/CD workflows.
