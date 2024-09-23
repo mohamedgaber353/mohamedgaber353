@@ -8,6 +8,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer;Cloud%20Native%20Developer;Kubernetes%20&%20Docker%20Specialist;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 ### 🚀 About Me
 
@@ -43,4 +46,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![RedHat](https://img.shields.io/badge/-RedHat-05122A?style=flat&logo=redhat&logoColor=EE0000)&nbsp;
+![OpenShift](https://img.shields.io/badge/-OpenShift-05122A?style=flat&logo=redhatopenshift&logoColor=EE0000)&nbsp;
 
