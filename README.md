@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">DevOps Engineer | Passionate about Automation & Cloud Infrastructure | Linux Enthusiast</h3>
 
@@ -9,20 +8,23 @@
   </a>
 </p>
 
-
 ### 🚀 About Me
-
 - 👨‍💻 I’m passionate about automating infrastructure and optimizing CI/CD workflows.
 - 🌱 Currently, I’m focusing on **Kubernetes** and mastering cloud platforms like AWS and GCP.
-- 🛠️ My pet project: [RenoCare](https://github.com/AB-Twitty/RenoCare) .
+- 🛠️ My pet project: [RenoCare](https://github.com/AB-Twitty/RenoCare).
 - 🐧 Avid **Arch Linux** user and advocate for open-source software.
 - 💬 Ask me about my experience with **Docker, Jenkins, Kubernetes**, or anything DevOps-related!
 - ⚡ Fun fact: When I’m not coding, I’m either experimenting with new Linux distros or enjoying a fresh cup of coffee.
 
+### 🎓 Education
+- **Faculty of Computers and Artificial Intelligence**, Cairo University (Graduating in 2024)
+<p align="left">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Cairo_University_Logo.svg/1200px-Cairo_University_Logo.svg.png" alt="Cairo University Logo" height="80" width="80"/>
+</p>
+
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-gaber353/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-mohamed" height="30" width="40" /></a>
- 
 </p>
 
 ### 🛠 Languages and Tools:
