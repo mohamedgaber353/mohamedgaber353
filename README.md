@@ -19,7 +19,7 @@
 ### 🎓 Education
 - **Faculty of Computers and Artificial Intelligence**, Cairo University (Graduating in 2024)
 <p align="left">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Cairo_University_Logo.svg/1200px-Cairo_University_Logo.svg.png" alt="Cairo University Logo" height="80" width="80"/>
+  <img align="center" src="[https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Cairo_University_Logo.svg/1200px-Cairo_University_Logo.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fp%2FFaculty-of-Computers-and-Artificial-Intelligence-Cairo-University-100066314966941%2F&psig=AOvVaw1SA3piMkifcI5G0ZXnREgy&ust=1727192601902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjKw5e02YgDFQAAAAAdAAAAABAE)" alt="Cairo University Logo" height="80" width="80"/>
 </p>
 
 ### 🌐 Connect with Me:
