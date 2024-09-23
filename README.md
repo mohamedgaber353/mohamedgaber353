@@ -17,7 +17,7 @@
 - ⚡ Fun fact: When I’m not coding, I’m either experimenting with new Linux distros or enjoying a fresh cup of coffee.
 
 ### 🎓 Education
-- **Faculty of Computers and Artificial Intelligence**, Cairo University (Graduating in 2024)
+- **Faculty of Computers and Artificial Intelligence**, Cairo University (Graduated in 2024)
 
 
 ### 🌐 Connect with Me:
